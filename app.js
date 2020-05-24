@@ -69,7 +69,6 @@ const handleDecimal = (dot) => {
 
 const handleClear = (clear) => {
   resetCalculator();
-  console.log(calculator);
 };
 
 const handleDelete = (del) => {
